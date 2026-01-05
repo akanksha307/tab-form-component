@@ -1,2 +1,2 @@
-# devops-beginner
-Devops Beginner Repository
+# tab-form-component
+React Component
